@@ -1,8 +1,60 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
 
-Hello World
+You can access most of my work using the following links or browse below for a quick overview of some of my projects.
+
+*   [Github](https://github.com/T4g1)
+*   [itch.io](https://itch.io/profile/t4g1)
+
+### Team projects
+*   Godot - [Shattered World 2 - Last Engineer](#shattered-world-2---last-engineer)
+*   Godot - [Merge Cities](#merge-cities)
+*   Godot - [Shadow's Realm](#shadows-realm)
+
+### Solo projects
+*   C++ - [Game Boy emulator](#dmg)
+
+
+# Team projects
+
+## Shattered World 2 - Last Engineer
+
+Management game inspired by the Anno serie mostly. One of my most polished project so far thanks to the wonderful artists that worked with us.
+
+*   Made using Godot
+*   [itch.io](https://bitron.itch.io/shattered-world-2)
+*   [sources](https://github.com/Byteron/floating-islands)
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvNTE3Nzc1LzI2OTEwNTcucG5n/347x500/UdoL7D.png)
+
+## Merge Cities
+
+First team project using Godot
+
+*   Made using Godot
+*   [itch.io](https://t4g1.itch.io/merge-cities)
+*   [sources](https://github.com/T4g1/gd-wildjam13)
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvNDgzNzY2LzI0OTU3NDQucG5n/347x500/nG136k.png)
+
+## Shadow's Realm
+
+Fully working point & click template. Game story isn't finished though because of timing constraints and team general availability.
+
+*   Made using Godot
+*   [itch.io](https://t4g1.itch.io/shadows-realm)
+*   [sources](https://github.com/T4g1/gd-wildjam14)
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvNTAyMTE4LzI2MDM4NDkucG5n/347x500/5g0QFq.png)
+
+
+# Solo projects
+
+## DMG
+
+Game Boy emulator written in C++ from scratch
+
+*   [sources](https://github.com/T4g1/dmg)
+
+![Screenshot](https://raw.githubusercontent.com/T4g1/dmg/master/img/super_mario.png)
