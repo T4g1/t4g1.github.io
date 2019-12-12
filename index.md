@@ -6,8 +6,10 @@ You can access most of my work using the following links or browse below for a q
 
 *   [Github](https://github.com/T4g1)
 *   [itch.io](https://itch.io/profile/t4g1)
+*   [Twitter](https://twitter.com/T4g1_)
 
 ### Team projects
+*   Unity - [Crossbow Hero](#crossbow-hero)
 *   Godot - [Shattered World 2 - Last Engineer](#shattered-world-2---last-engineer)
 *   Godot - [Merge Cities](#merge-cities)
 *   Godot - [Shadow's Realm](#shadows-realm)
@@ -17,6 +19,16 @@ You can access most of my work using the following links or browse below for a q
 
 
 # Team projects
+
+## Crossbow Hero
+
+Top down shooter made for the Jamcraft 4.
+
+*   First game made using Unity
+*   [itch.io](https://t4g1.itch.io/crossbow-hero)
+*   [sources](https://github.com/T4g1/jamcraft4)
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvNTI2NDkxLzI3MzUxOTUucG5n/347x500/p7UzzW.png)
 
 ## Shattered World 2 - Last Engineer
 
