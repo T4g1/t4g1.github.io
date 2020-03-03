@@ -9,6 +9,7 @@ You can access most of my work using the following links or browse below for a q
 *   [Twitter](https://twitter.com/T4g1_)
 
 ### Team projects
+*   Godot - [Jonhy's Curse](#jonhys-curse)
 *   Unity - [Crossbow Hero](#crossbow-hero)
 *   Godot - [Shattered World 2 - Last Engineer](#shattered-world-2---last-engineer)
 *   Godot - [Merge Cities](#merge-cities)
@@ -19,6 +20,16 @@ You can access most of my work using the following links or browse below for a q
 
 
 # Team projects
+
+## Jonhy's Curse
+
+Puzzle/Plateformer made for the Godot Wild Jam 18
+
+*   [itch.io](https://t4g1.itch.io/jonhys)
+*   [sources](https://github.com/T4g1/gd-wildjam18)
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvNTc0NTMxLzMwMjQ4NzAucG5n/347x500/jmcNz0.png)
+![Screenshot](https://img.itch.zone/aW1hZ2UvNTc0NTMxLzMwMjQ4NjkucG5n/347x500/y%2FMrh9.png)
 
 ## Crossbow Hero
 
