@@ -8,6 +8,12 @@ You can access most of my work using the following links or browse below for a q
 *   [itch.io](https://itch.io/profile/t4g1)
 *   [Twitter](https://twitter.com/T4g1_)
 
+### Mashikouli
+Attempt at making a game studio from scratch with [Ben Lega](https://twitter.com/ben_lega_vidya)
+*   Godot - [Mashi-Deep](#mashi-deep)
+*   Godot - [Mashi-Mouse](#mashi-mouse)
+*   Godot - [Mashi-Ninja](#mashi-ninja)
+
 ### Team projects
 *   Godot - [Jonhy's Curse](#jonhys-curse)
 *   Unity - [Crossbow Hero](#crossbow-hero)
@@ -17,6 +23,27 @@ You can access most of my work using the following links or browse below for a q
 
 ### Solo projects
 *   C++ - [Game Boy emulator](#dmg)
+
+
+# Mashikouli
+
+## Mashi-Deep
+
+*   [itch.io](https://mashikouli.itch.io/mashi-deep)
+
+![Screenshot](https://img.itch.zone/aW1nLzMyMTY0ODEucG5n/315x250%23c/HXmh3I.png)
+
+## Mashi-Mouse
+
+*   [itch.io](https://mashikouli.itch.io/mashi-mouse)
+
+![Screenshot](https://img.itch.zone/aW1nLzMxOTA4MDUucG5n/315x250%23c/A%2F1eu9.png)
+
+## Mashi-Ninja
+
+*   [itch.io](https://mashikouli.itch.io/mashi-ninja)
+
+![Screenshot](https://img.itch.zone/aW1nLzMwODQ3NTQucG5n/315x250%23c/f10JbJ.png)
 
 
 # Team projects
